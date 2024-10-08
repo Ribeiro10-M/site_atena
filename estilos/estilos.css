@@ -1,0 +1,96 @@
+*{
+    margin: 0;}
+img{
+    margin: 7px;
+}   
+body { 
+    background-color: #E3CD9B;
+}
+p{
+    margin:8px 0px 0px 10px;
+    font-size: 22px;
+}
+a{
+    font-size: 19px;
+}
+.links_pg4 a{
+    color:#F2C744;
+}
+.links_pg3 a{
+    color:#86C707;
+}
+    a:hover{color:#F2C744;}
+
+.menu_pagina1{
+    background-color:#00ACC1  ;
+}
+
+.fundo_pg1{
+    background-color:#D98B48;
+    margin-right: 5px;
+;}
+
+.margem_pg1{
+        margin: 0px 30px 30px 0px;
+}
+
+.fundo_texto_pg1{
+    background-color: #E09436;
+}
+
+
+.menu_pagina2{
+    background-color:#85B054;
+}
+.fundo_pg2{
+    background-color:#00ACC1 ;
+}
+.fundo_texto_pg2{
+    background-color: #89C2D9;
+}
+.fundo_texto2_pg2{
+    background-color: #85B054
+}
+.fundo_texto3_pg2{
+    background-color: #E09436
+}
+
+.margem_tops_pg2{
+    margin: 16px;
+}
+.letras_ul__pg2{
+    font-size: 20px;
+    
+}
+.menu_pagina3{
+    background-color:#87674E ;
+}
+.menu_pagina4{
+  background-color:#172E73;
+    ;
+}
+.fundo_pinceis_lapís{
+    background-color: #85B054;
+}
+.fundo_pinceis{
+background-image: url("/home/aluno/site_atena4/imagens/pinceis_fundo.jpg");
+}
+
+#cor_título{
+    color:#F2C744
+}
+
+.flutuar_left{
+    float:left;
+}
+.flutuar_right{
+    float:right;
+}
+.rodapé{
+    background-color:#F28C0F;
+}
+.margem_rodapé{
+    margin-left:50px;
+    margin-right:50px ;
+}
+
